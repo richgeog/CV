@@ -48,5 +48,5 @@ A highly selective 12 week coding bootcamp
 
 **Lead Non Food Manager: Oct '08 - Feb '12**
 
-**Stock Control Manager: Feb'02 - Oct'08**
+**Stock Control Manager: Feb '02 - Oct '08**
 
