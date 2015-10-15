@@ -4,7 +4,7 @@ A former retailer turned coder, interested in making tasks simpler and easier th
 
 Having been involved from the client side of web development in my previous job, this stirred a passion for how customer experiences can be vastly improved using code.
 
-I am looking to continue my journey into the world of web development in an environment that supports junior developers with developing my newly found skills, working in a fun envirmonemt with like minded people.
+I am looking to continue my journey into the world of web development in an environment that supports junior developers with developing my newly found skills, working in a fun environment with like minded people.
 
 ## Skills
 
@@ -12,10 +12,10 @@ Below you will find my final project along with a small app completed in a maker
 
 |  Projects | A little about these... |
 | ---------------- | -------------------------------------------------------- |
-| [rand(Cast)](https://github.com/ShuflCast/randCast.git) | For our final project we built a podcast randomising app in Ionic using Angular.js |
-| [OnTap](https://github.com/richgeog/onTap_2.git) | An application built using Angular.js during a 2 day makerthon at Makers Academy |
-| [Instagram](https://github.com/richgeog/instagram-challenge.git) | A replica of Instagram using ruby on rails utilising an MVC approach with ActiveRecord |
-| [Chitter](https://github.com/richgeog/chitter-challenge.git) | A twitter clone using Sinatra, Ruby and data-mapper |
+| [rand(Cast)](https://github.com/ShuflCast/randCast.git) | For our final project we built a podcast app that randomised the results of podcasts the user could listen too based on genre and duration they have selected. We built the app using Ionic framework |
+| [OnTap](https://github.com/richgeog/onTap_2.git) | During a 2 day makerthon at Makers Academy, we made a beer finding application in Angular utilising the Yelp Api and Google maps to highlight the nearest pubs to the users location |
+| [Instagram](https://github.com/richgeog/instagram-challenge.git) | A take on the popular photo sharing app Instagram, allowing users to upload thier images as well as comment and like other users photos. I used ruby on rails with ActiveRecord whilst utilising an MVC approach |
+| [Chitter](https://github.com/richgeog/chitter-challenge.git) | Chitter, the younger brother to the very popular app Twitter. Chitter allows users to send peeps to one another and view all peeps in a simple chronological order. I used Sinatra, Ruby and data-mapper for this project |
 
 ### Team Work and Communication
 
@@ -46,8 +46,8 @@ A highly selective 12 week coding bootcamp
 - Independent learner and problem-solver
 - Focus on Agile methodology and software development
 - Taught cutting edge coding techniques and best practices including; TDD, BDD, OOP and MVC
-- Ruby, Rails, Javascript, jQuery, Angular.js and Sinatra
-- Testing - RSpec, Capybara, Jasmine, Cucumber, Karma and Protractor
+- Angular.js, Javascript, jQuery, Ruby, Rails and Sinatra
+- Capybara, Cucumber, Jasmine, Karma, Protractor and RSpec
     
 ## Employment
 #### Tesco: September '97 - April '15
