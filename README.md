@@ -4,7 +4,7 @@ A former retailer turned coder, interested in making tasks simpler and easier th
 
 Having been involved from the client side of web development in my previous job, this stirred a passion for how customer experiences can be vastly improved using code.
 
-I am looking to continue my journey into the world of web development in an environment that supports newbies(like me) with developing my newly found skills, whilst introducing me to new fun tech.
+I am looking to continue my journey into the world of web development in an environment that supports junior developers with developing my newly found skills, working in a fun envirmonemt with like minded people.
 
 ## Skills
 
@@ -13,20 +13,20 @@ Below you will find my final project along with a small app completed in a maker
 |  Projects | A little about these... |
 | ---------------- | -------------------------------------------------------- |
 | [rand(Cast)](https://github.com/ShuflCast/randCast.git) | For our final project we built a podcast randomising app in Ionic using Angular.js |
-| [OnTap](https://github.com/richgeog/OnTap2.git) | An application built using Angular.js during a 2 day makerthon at Makers Academy |
+| [OnTap](https://github.com/richgeog/onTap_2.git) | An application built using Angular.js during a 2 day makerthon at Makers Academy |
 | [Instagram](https://github.com/richgeog/instagram-challenge.git) | A replica of Instagram using ruby on rails utilising an MVC approach with ActiveRecord |
 | [Chitter](https://github.com/richgeog/chitter-challenge.git) | A twitter clone using Sinatra, Ruby and data-mapper |
 
 ### Team Work and Communication
 
-- In my previous role I would collaborate with multiple teams across many areas of the business, including clients and suppliers a on daily basis
-- During my time at Makers, I have worked both in both pairs and in larger groups for our projects, this included running of our own stand ups
-- Mentoring a fellow Makers student due to start in the next cohort allowed me to share my experiences and guide them through their first few weeks of the course
+- In my previous role I would collaborate with multiple teams across many areas of the business, including clients and suppliers on a daily basis
+- During my time at Makers, I have worked both in pairs and in larger groups for our projects, this included the running of our own stand ups
+- Mentoring a fellow Makers student due to start in the next cohort allowed me to share my experiences and support them through their first few weeks of the course
 
 ### Problem Solving
 
-- This has always been something that has excited me, my previous roles allowed me to explore new simpler and cheaper ways for the business to improve the ways we did things, whilst having the customer at the fore front of all of our decisions
-- Developing this skill during my time at Makers, along with a 'no quit' attitude has helped to realise the answer is always out there, just keep digging
+- This has always been something that has excited me, my previous roles allowed me to explore new simpler and cheaper ways for the business to improve the way tasks were completed, whilst having the customer at the fore front of all of my decisions
+- Developing this skill during my time at Makers, along with a 'no quit' attitude has helped to realise the answer is always out there, just keep digging until you find it
 
 ### Technical Skills
 
@@ -49,16 +49,14 @@ A highly selective 12 week coding bootcamp
 - Ruby, Rails, Javascript, jQuery, Angular.js and Sinatra
 - Testing - RSpec, Capybara, Jasmine, Cucumber, Karma and Protractor
     
-
 ## Employment
 #### Tesco: September '97 - April '15
 
 **Seasonal Operations Manager:**
 *June '13  - April '15*
 
-- Managing a £1m budget to deliver additional storage to stores over the Christmas period
-- Supporting 45% additional stores with no increased budget
-- Collaboratively delivering a 500k unit stock push over a 3 day period to 140 stores
+- Managing a £1m budget delivering additional storage to stores over the Christmas period
+- Collaboratively planning and delivering a 500k unit stock push over a 3 day period to 140 stores for Christmas
 
 **Deputy Manager:**
 *February '12 - June '13*
