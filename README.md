@@ -72,9 +72,7 @@ A highly selective 12 week coding bootcamp
 
 ### Contact me
 ---
-richard.geoghegan@ntlworld.com
-
-[Github](https://github.com/richgeog)
-
-[LinkedIn](https://uk.linkedin.com/in/richard-geoghegan-56633ba0)
+- richard.geoghegan@ntlworld.com
+- [Github](https://github.com/richgeog)
+- [LinkedIn](https://uk.linkedin.com/in/richard-geoghegan-56633ba0)
 
