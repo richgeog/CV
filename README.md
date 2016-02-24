@@ -59,7 +59,7 @@ A highly selective 12 week coding bootcamp
 
 - Managing a £1m budget delivering additional storage to stores over the Christmas period
 - Collaboratively planning and delivering a 500k unit stock push over a 3 day period to 140 stores for Christmas
-- Analysing competitor activity over seasonal periods to maximise sales through improved store openings and comunicate proposal to senior leadership team
+- Analysing competitor activity over seasonal periods to maximise sales through improved store openings and communicate proposal to senior leadership team
 
 **Deputy Manager:**
 *February '12 - June '13*
